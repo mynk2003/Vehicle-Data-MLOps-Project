@@ -67,8 +67,7 @@ MLOPS-Project1/
 ### Installation  
 1. **Clone the repository:**  
 ```sh
-[git clone https://github.com/Lakshaygoel4321/MLOPS-Project1.git
-cd MLOPS-Project1](https://github.com/mynk2003/Vehicle-Data-MLOps-Project.git)
+https://github.com/mynk2003/Vehicle-Data-MLOps-Project.git
 ```
 
 2. **Create a virtual environment and activate it:**  
